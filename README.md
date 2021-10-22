@@ -3,7 +3,6 @@ Timbre transfer and Music visualization | AI Artathon
 
 ## ARTWORK NAME : SYNESTHESIA
 ## SUBMITTED BY : LITERALLY SEE
-[![Watch the video](https://www.youtube.com/watch?v=IHaT6QTNoHI)
 
  
 ### Project Description :
