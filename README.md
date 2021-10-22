@@ -1,4 +1,4 @@
-# Synthesia
+# Synesthesia
 Timbre transfer and Music visualization | AI Artathon
 
 ## ARTWORK NAME : SYNESTHESIA
