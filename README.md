@@ -3,6 +3,8 @@ Timbre transfer and Music visualization | AI Artathon
 
 ## ARTWORK NAME : SYNESTHESIA
 ## SUBMITTED BY : LITERALLY SEE
+[![Watch the video](https://www.youtube.com/watch?v=IHaT6QTNoHI)
+
  
 ### Project Description :
 Synesthesia is a neurological condition in which information meant to stimulate one of your senses stimulates several of them instead. Aspiring musicians want for their music to reach people and have the maximum effect on their feelings. Our goal project is to generate active visuals based on real-time edited music, audience can literally see the sensation of music and not just feel it. We hope that our project can help people with hearing loss to feel the music even if they can't hear it.
