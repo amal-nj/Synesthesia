@@ -12,7 +12,6 @@ We hope that our project can help those with hearing loss to feel nothing but th
 ### Project AI Description :
 MP3 files - whether sung or serenaded by instruments - are encoded into an array of musical notes which are used to generate visually audio-responsive images. The images are sourced from ImageNet classes, which contain 1000 common items, creatures, or objects. The current selection of images is done at random, but it can be specified using certain function arguments and flags. We do intend to make the feelings of the music corresponds and tell a holistically accurate story. Our outline is: to translate notes into feelings into relevant pictures, to make emotionally-charged art.
 
-MP3 files - whether sang or played by instruments - are transferred into musical notes which are used to generate images. Afterwards, these images
 The project uses three models. 
 - Timbre transfer with Magenta ddsp: takes an audio file, a choice of instrument and produces a new version of the input audio played with the chosen instrument. 
 - Deep visualizer: a music visualizer that takes the output file of the timbre transfer model and produces music visualization based on pitch, a number of chosen classes, and a few other parameters.
