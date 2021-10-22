@@ -14,9 +14,9 @@ MP3 files - whether sung or serenaded by instruments - are encoded into an array
 
 MP3 files - whether sang or played by instruments - are transferred into musical notes which are used to generate images. Afterwards, these images
 The project uses three models. 
-1- Timbre transfer with Magenta ddsp: takes an audio file, a choice of instrument and produces a new version of the input audio played with the chosen instrument. 
-2- Deep visualizer: a music visualizer that takes the output file of the timbre transfer model and produces music visualization based on pitch, a number of chosen classes, and a few other parameters.
-3- Style transfer: To further process the produced video. Style transfer is applied on every frame in the video separately. Eventually, all frames are compiled together with the audio from the first model. 
+- Timbre transfer with Magenta ddsp: takes an audio file, a choice of instrument and produces a new version of the input audio played with the chosen instrument. 
+- Deep visualizer: a music visualizer that takes the output file of the timbre transfer model and produces music visualization based on pitch, a number of chosen classes, and a few other parameters.
+- Style transfer: To further process the produced video. Style transfer is applied on every frame in the video separately. Eventually, all frames are compiled together with the audio from the first model. 
 #### Model references: 
 - Magenta ddsp timbre transfer: https://colab.research.google.com/github/magenta/ddsp/blob/main/ddsp/colab/demos/timbre_transfer.ipynb
 - Deep visualizer: https://github.com/msieg/deep-music-visualizer
