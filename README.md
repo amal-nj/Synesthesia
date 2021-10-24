@@ -2,7 +2,7 @@
 Timbre transfer and Music visualization | AI Artathon
 
 ## ARTWORK NAME : SYNESTHESIA
-## SUBMITTED BY : LITERALLY SEE
+ SUBMITTED BY : LITERALLY SEE
 
  
 ### Project Description :
@@ -20,12 +20,6 @@ The project uses three models.
 - Magenta ddsp timbre transfer: https://colab.research.google.com/github/magenta/ddsp/blob/main/ddsp/colab/demos/timbre_transfer.ipynb
 - Deep visualizer: https://github.com/msieg/deep-music-visualizer
 - Style transfer: https://tfhub.dev/google/magenta/arbitrary-image-stylization-v1-256/2
-### Project Art Description :
-Imagine that while singing or playing your instrument, notes appear in front of people as changing elements and colors, and your emotions through music reaches to them in the maximum percentage.
- 
- 
-### External Links (repository): 
-Here!
  
  
 ### Audio:
